@@ -247,4 +247,16 @@
     .youtube-videos{
         grid-template-columns: 1fr;
     }
+    .videos{
+        padding: 0;
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+        border-radius: 0;
+    }
+    .video-description{
+        margin-top: 1rem;
+    }
+    .video-frame iframe{
+        border-radius: 0;
+    }
 }    
